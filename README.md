@@ -6,7 +6,7 @@ This an action survival game, where you have to kill zombie in order to reach so
 In this area you have to kill a number of zombie in order to clean the area.
 
 ## Features:
-Before continuing you have to know that we had a lot of problem with the  Network Manager and some features are only available when you are playing Swayne. At the begening the game was multi player but due to some issue, we tried to make a solo game but due to networkmanger we are still facing some issue. So please if you wanna see every feature choose Swayne , but you can try Gaara's Ultimate if you want. Furthemore some bugs are still existing because we dont have time to fix it. Do not forget this game was a project for a course, tank you .
+Before continuing you have to know that we had a lot of problem with the  Network Manager and some features are only available when you are playing Swayne. At the begening the game was think for multi player but due to some issue, we tried to make a solo game. Furthermore  due to the networkmanger we are still facing some strange issue. So please if you want to  see every features choose Swayne , but you can play Gaara and try his Ultimate without any problem. Furthemore some bugs are still existing because we dont have time to fix it. Do not forget this game was a project for a course, tank you .
 
 - Moving your character, with camera following and animation - Sacha 100%
 - Weapons : - Sacha 100%
@@ -57,16 +57,16 @@ You just have to run OP_GM.exe
 - To finish the game, pull some zombie in the main plaza where there is the Zombie tank and kill 20 zombie.
 - To pick up item, left click close and aim the item you want to pick up ( if your character allow it)
 - When you play Gaara, once you stacked 40 fureur you can use your ultimate by typing on R key 
-- When you pickup ammo use key above letter to use it and get it.
-- Whatchout when you pick up item it appaears in the inventory, do not use it otherwise you will " consume" your weapon .. We know this is not the best solution but we wanted something generic maybe too much
+- When you pick up ammo use key above letter (1 2 3 4 5 6 7 8 9 0 etc ... ) to use it and get it.
+- Whatch out when you pick up item it appaears in the inventory, do not use it otherwise you will " consume" your weapon .. We know this is not the best solution but we wanted something generic.
 - Only Gatling require Ammo ! 
-- Pick up yellow box and white sphere at the main plaza and then open your craft menu and create ne item !
+- Pick up yellow box and white sphere at the main plaza and then open your craft menu and you should be able to create new item !
 - Some area will lock you for a time, then you will get a surprise , try it at the main plaza.
 
 
 
 ## Conclusion
-There are a lot of bugs but as I explained we had to be quick to make a solo game " playable" for our course even if we started by scripting eveything using networkmanager because that was our first idea. But as a first game on Unity and in only 1 month developping we were not able to succes the multiplayer. But we get 4.3/4.3 so we are proud of our project even if it is more a prototype than a game.
+There are a lot of bugs yet as I explained we had to be quick to make a solo game " playable" for our course because  we started by scripting eveything using networkmanager because that was our first idea. But as a first game on Unity and in only 1 month of development we were not able to succes the multiplayer. However we obtained the perfect grade (4.3/4.3) so we are proud of our project even if it is more a prototype than a game.
 ## Authors
 
 * **Sacha Vanleene - Developper** 
