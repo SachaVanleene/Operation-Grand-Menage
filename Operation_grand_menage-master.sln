@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operation_grand_menage-master", "Operation_grand_menage-master.csproj", "{51EC60B9-F191-F32E-53A1-D2A6ACBD605F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operation_grand_menage-master.Editor", "Operation_grand_menage-master.Editor.csproj", "{CE38D0C0-F601-32B0-726E-480BD4E6068D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operation_grand_menage-master.Editor.Plugins", "Operation_grand_menage-master.Editor.Plugins.csproj", "{B7742579-2AA3-9FC4-EEEF-03510F473548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EC60B9-F191-F32E-53A1-D2A6ACBD605F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EC60B9-F191-F32E-53A1-D2A6ACBD605F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EC60B9-F191-F32E-53A1-D2A6ACBD605F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EC60B9-F191-F32E-53A1-D2A6ACBD605F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE38D0C0-F601-32B0-726E-480BD4E6068D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE38D0C0-F601-32B0-726E-480BD4E6068D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE38D0C0-F601-32B0-726E-480BD4E6068D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE38D0C0-F601-32B0-726E-480BD4E6068D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7742579-2AA3-9FC4-EEEF-03510F473548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7742579-2AA3-9FC4-EEEF-03510F473548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7742579-2AA3-9FC4-EEEF-03510F473548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7742579-2AA3-9FC4-EEEF-03510F473548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
