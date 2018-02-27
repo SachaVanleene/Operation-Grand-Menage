@@ -58,7 +58,7 @@ You just have to run OP_GM.exe
 - To pick up item, left click close and aim the item you want to pick up ( if your character allow it)
 - When you play Gaara, once you stacked 40 fureur you can use your ultimate by typing on R key 
 - When you pick up ammo use key above letter (1 2 3 4 5 6 7 8 9 0 etc ... ) to use it and get it.
-- Whatch out when you pick up item it appaears in the inventory, do not use it otherwise you will " consume" your weapon .. We know this is not the best solution but we wanted something generic.
+- Whatch out when you pick up a weapon it appaears in the inventory, do not use it otherwise you will " consume" your weapon .. We know this is not the best solution but we wanted something similar for every item.
 - Only Gatling require Ammo ! 
 - Pick up yellow box and white sphere at the main plaza and then open your craft menu and you should be able to create new item !
 - Some area will lock you for a time, then you will get a surprise , try it at the main plaza.
